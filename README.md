@@ -10,7 +10,7 @@ and case insensitive:
 - V1.2    Fixed error in JS. Pressing Enter is ignored to prevent submit. 
 
 ## Requirements
-The plugin can be used with Apex 5.0 and Apex 5.1.
+The plugin can be used with Apex 5.0, Apex 5.1 and Apex 22.1.
 
 ## Install
 - Import plugin file "dynamic_action_plugin_nl_detora_apex_restrict_shuttle_values.sql" from source directory into your application
@@ -22,9 +22,4 @@ To use the plug-in:
 - the attribute Search Item needs to reference the item containing the filter content
 - the Affected element needs to point to the shuttle item
 
-## Demo Application
-http://www.speech2form.com/ords/f?p=OPFG:RESTRICT_SHUTTLE
-
-## Preview
-![](https://raw.githubusercontent.com/dickdral/apex-copy_to_clipboard/master/restrict_shuttle_values_example.gif?raw=true)
 ---
